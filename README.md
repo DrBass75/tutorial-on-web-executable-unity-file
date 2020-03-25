@@ -34,6 +34,6 @@
 
 2. Scroll down the setting page until **GitHub Pages** section as shown in Figure below. If your **Source** is none, select the master branch option as shown below. Then a statement will automatically generate saying "Your site is published at http://XXXXXXXXX.github.io/XXXXXX/" (see the Figure below). Please copy the link and add index.html at the end of http://XXXXXXXXX.github.io/XXXXXX/. Just as http://XXXXXXXXX.github.io/XXXXXX/index.html    You can then copy the link to your browser and your unity built-out game will start by itself through webpage directly. 
 
-**Please be aware that the keyboard and mouse control method is preferred by webpage gameplay.**
+   **Please be aware that the keyboard and mouse control method is preferred by webpage gameplay.**
 
 ![](https://raw.githubusercontent.com/twoyearslateravocadocodes/tutorial-on-web-executable-unity-file/master/6.png)
